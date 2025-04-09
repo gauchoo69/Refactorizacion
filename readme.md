@@ -12,7 +12,7 @@
     - obtenerPuntuacionSinEmpate
 
 ### Commit 2: Refactorización del manejo de puntuaciones iguales
-- Creación de obtenerPuntuacionEmpate para manejar el caso cuando los jugadores están empatados.
+- Creación de obtenerPuntuacionEmpate
 
 ### Commit 3: Refactorización de puntuaciones regulares
 - Extracción de la lógica que maneja las puntuaciones regulares (sin empate) a un método separado: obtenerPuntuacionSinEmpate.
