@@ -29,7 +29,9 @@ public class Main {
     return score;
     }
 
-    private static String Ventajasmaximas(int m_score1, int m_score2, int i, String score) {
+    private static String Ventajasmaximas(int m_score1, int m_score2, int i, String score)
+
+    {
         int tempScore;
         if (i ==1) tempScore = m_score1;
         else { score +="-"; tempScore = m_score2;}
